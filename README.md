@@ -1,5 +1,6 @@
 # Multiple Language Versions
-* [中文](zh.md)
+* [簡體中文](zh_hans.md)
+* [繁體中文](zh_hant.md)
 * [English](en.md)
 
 ## Acknowledgments
